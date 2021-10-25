@@ -1,3 +1,5 @@
 {
-  "container": { "port": 3212, "startScript": "custom", "node": "14" }
+  "infiniteLoopProtection": true,
+
+  "container": { "port": 3212, "startScript": "test:unit", "node": "14" }
 }
