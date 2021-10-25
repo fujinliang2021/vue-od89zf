@@ -2,7 +2,7 @@
   "infiniteLoopProtection": true,
   "hardReloadOnChange": false,
   "view": "terminal",
-  "template": "node",
+  "template": "vue",
   "container": {
     "startScript": "test:cov"
   }
