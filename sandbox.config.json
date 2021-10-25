@@ -2,6 +2,7 @@
   "infiniteLoopProtection": true,
   "hardReloadOnChange": false,
   "view": "terminal",
+  "template": "node",
   "container": {
     "startScript": "test:cov"
   }
