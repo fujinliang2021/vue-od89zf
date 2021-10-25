@@ -1,4 +1,8 @@
 {
   "infiniteLoopProtection": true,
-  "hardReloadOnChange": false
+  "hardReloadOnChange": false,
+  "container": {
+    "startScript": "test:cov"
+  }
+
 }
