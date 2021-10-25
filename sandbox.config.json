@@ -1,8 +1,8 @@
 {
   "infiniteLoopProtection": true,
   "hardReloadOnChange": false,
+  "view": "terminal",
   "container": {
     "startScript": "test:cov"
   }
-
 }
